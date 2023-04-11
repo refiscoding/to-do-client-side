@@ -65,6 +65,5 @@ return (
     ))}
   </main>
 )
-    }
 
 export default App
